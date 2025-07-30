@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
 <img src="https://user-images.githubusercontent.com/0000000/0000000-hero-banner.jpg" alt="Banner" width="100%">
 
-<h1 align="center">Hey there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there, I'm Tiago Galvão 👋</h1>
 <p align="center">Electrical & Computer Engineer | MSc in Computer Security | Blockchain & Web3 Enthusiast</p>
 
 ---
@@ -53,14 +53,11 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/tiagogalvao7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tgalvao46@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
