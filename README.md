@@ -1,6 +1,3 @@
-<!-- Hero Banner -->
-<img src="https://user-images.githubusercontent.com/0000000/0000000-hero-banner.jpg" alt="Banner" width="100%">
-
 <h1 align="center">Hey there, I'm Tiago Galvão 👋</h1>
 <p align="center">Electrical & Computer Engineer | MSc in Computer Security | Blockchain & Web3 Enthusiast</p>
 
