@@ -62,5 +62,5 @@
 
 ### ⚡ Fun Fact
 
-> "Living with Type 1 Diabetes, coding full-stack, and training for IronMan — because limits are meant to be challenged." 🏁🔥
+> "Tu ficas sentado a sonhar por esse teu mundo mas, sonhar nesta vida não chega"
 
