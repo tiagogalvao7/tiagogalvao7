@@ -39,9 +39,10 @@
 
 ### 🌱 Currently Learning
 
-- 📚 Advanced smart contract patterns (Solidity, Foundry, Hardhat)
+- 📚 Advanced smart contract patterns (Solidity, Hardhat)
 - 🧱 Web3 tooling & full-stack DApps
 - ⚙️ DevOps basics with Docker & CI/CD
+- 🛢 Improving DataBase skills and knowledge
 - 🧠 React + Next.js for scalable frontend development
 - 🏊‍♂️🚴‍♂️🏃‍♂️ Endurance and discipline — training for **IronMan Portugal 2025**
 
