@@ -35,7 +35,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagogalvao7&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogalvao7&layout=compact&theme=radical&cache_busting=true" />
 </div>
 
