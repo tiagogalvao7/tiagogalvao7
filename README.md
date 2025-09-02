@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Tiago Galvão 👋</h1>
-<p align="center">Electrical & Computer Engineer | MSc in Computer Security | Blockchain & Web3 Enthusiast</p>
+<p align="center">Electrical & Computer Engineer | MSc in CyberSecurity | Blockchain & Web3 Enthusiast</p>
 
 ---
 
