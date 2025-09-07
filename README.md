@@ -11,7 +11,6 @@
 - 💡 Main areas of interest are **blockchains**, **smart contracts**, **crypto**, and **web3**
 - 🧠 Curious full-stack developer who loves to improve and learn every day
 - 💪 Big fan of **sports** and fitness — currently training for **IronMan Cascais 2025**
-- 💙 Living with **Type 1 Diabetes** — proving every day that nothing is impossible
 
 ---
 
