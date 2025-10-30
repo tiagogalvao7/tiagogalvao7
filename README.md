@@ -10,7 +10,7 @@
 - 🇵🇹 From **Portugal**
 - 💡 Main areas of interest are **Pentesting**, **Blockchains**, **Smart contracts**, **Crypto**, and **Web3**
 - 🧠 Curious full-stack developer who loves to improve and learn every day
-- 💪 Big fan of **sports** and fitness — currently training for **Finisher IronMan Cascais 2025 in 12:56h**
+- 💪 Big fan of **sports** and fitness — **Finisher IronMan Cascais 2025 in 12:56h**
 
 ---
 
