@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Tiago Galvão 👋</h1>
-<p align="center">Electrical & Computer Engineer | MSc in CyberSecurity | Blockchain/Web3/Cybersecurity Enthusiast</p>
+<p align="center">Electrical & Computer Engineer | MSc in CyberSecurity | Junior Pentester/Blockchain/Web3/Cybersecurity Enthusiast</p>
 
 ---
 
@@ -14,6 +14,13 @@
 
 ---
 
+### 🧠 Cybersecurity Focus
+- Currently building a **PenTesting portfolio** (Web & Network security)  
+- Practicing on **HackTheBox, TryHackMe, and PortSwigger Academy**  
+- Interested in **Web Exploitation, Reconnaissance, and Privilege Escalation**
+
+---
+
 ### 🚀 Tech Stack
 
 <div align="center">
@@ -25,6 +32,12 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-003366?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </div>
 
 <p align="center"><i>Still figuring out pointers... but I’ll get there 😅</i></p>
@@ -41,12 +54,15 @@
 
 ### 🌱 Currently Learning
 
+- OWASP Top 10 Web Vulnerabilities  
+- Manual exploitation with **Burp Suite**, **ffuf**, and **curl**
+- Recon automation with **Python** and **Bash**
 - 📚 Advanced smart contract patterns (Solidity, Hardhat)
 - 🧱 Web3 tooling & full-stack DApps
 - ⚙️ DevOps basics with Docker & CI/CD
 - 🛢 Improving DataBase skills and knowledge
 - 🧠 React + Next.js for scalable frontend development
-- 🏊‍♂️🚴‍♂️🏃‍♂️ Endurance and discipline — training for **IronMan Portugal 2025**
+- 🏊‍♂️🚴‍♂️🏃‍♂️ Endurance and discipline —  **IronMan Portugal 2025 Finisher in 12h56**
 
 ---
 
