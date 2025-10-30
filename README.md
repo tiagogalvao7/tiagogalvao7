@@ -8,9 +8,9 @@
 - 🎓 BSc in **Electrical and Computer Engineering**
 - 🎓 MSc in **Computer Security**
 - 🇵🇹 From **Portugal**
-- 💡 Main areas of interest are **blockchains**, **smart contracts**, **crypto**, and **web3**
+- 💡 Main areas of interest are **Pentesting**, **Blockchains**, **Smart contracts**, **Crypto**, and **Web3**
 - 🧠 Curious full-stack developer who loves to improve and learn every day
-- 💪 Big fan of **sports** and fitness — currently training for **IronMan Cascais 2025**
+- 💪 Big fan of **sports** and fitness — currently training for **Finisher IronMan Cascais 2025 in 12:56h**
 
 ---
 
@@ -62,7 +62,6 @@
 - ⚙️ DevOps basics with Docker & CI/CD
 - 🛢 Improving DataBase skills and knowledge
 - 🧠 React + Next.js for scalable frontend development
-- 🏊‍♂️🚴‍♂️🏃‍♂️ Endurance and discipline —  **IronMan Portugal 2025 Finisher in 12h56**
 
 ---
 
