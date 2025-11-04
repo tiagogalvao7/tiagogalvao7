@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Tiago Galvão 👋</h1>
 <p align="center">Electrical & Computer Engineer | MSc in CyberSecurity | Junior Pentester & Blockchain Enthusiast</p>
-<p align="center">Portfolio: https://tg-pentestportfolio.pages.dev/</p>
+<p align="center">Portfolio: https://tgalvao-portfolio.com</p>
 
 ---
 
